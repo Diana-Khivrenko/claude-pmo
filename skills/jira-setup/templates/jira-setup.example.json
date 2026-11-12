@@ -1,0 +1,16 @@
+{
+  "site": "snotor.atlassian.net",
+  "project_key": "ABC",
+  "boards": [
+    {
+      "name": "ABC Development",
+      "type": "kanban",
+      "jql": "project = ABC AND issuetype not in (Epic, \"Technical task\", \"Technical Sub-task\") ORDER BY Rank ASC"
+    },
+    {
+      "name": "ABC Infrastructure",
+      "type": "kanban",
+      "jql": "project = ABC AND issuetype in (\"Technical task\", \"Technical Sub-task\") ORDER BY Rank ASC"
+    }
+  ]
+}

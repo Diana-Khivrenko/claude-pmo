@@ -1,0 +1,11 @@
+{
+  "name": "snotor-pmo",
+  "owner": { "name": "Snotor PMO" },
+  "plugins": [
+    {
+      "name": "snotor-pmo",
+      "source": "./",
+      "description": "Snotor's product and project management workflow: Jira setup and tickets, Confluence use case and Reference pages, prototypes, design checks and stakeholder messages."
+    }
+  ]
+}

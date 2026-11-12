@@ -1,0 +1,4 @@
+*.env
+jira-setup.json
+__pycache__/
+.DS_Store

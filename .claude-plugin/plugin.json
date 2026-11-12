@@ -1,0 +1,6 @@
+{
+  "name": "snotor-pmo",
+  "version": "0.20.1",
+  "description": "Snotor's product and project management workflow: Jira setup and tickets, Confluence use case and Reference pages, prototypes, design checks and stakeholder messages. Project specifics live in each project's profile, not in the skills.",
+  "author": { "name": "Snotor PMO" }
+}
